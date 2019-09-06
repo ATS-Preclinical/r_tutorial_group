@@ -1,11 +1,20 @@
-## Welcome to GitHub Pages
+## Welcome to R Tutorial for ATS Group 
 
-You can use the [editor on GitHub](https://github.com/ats-master/r_tutorial/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+### Welcome!
+This is the homepage for "Quick R tutorial session with CY" held every Tuesday for the ATS team. Please find the google calendar event here if you would like to join remotely.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Distribution
+This repository is for share within the ATS team only; it will be made private after my expense request for Github's pro version gets approved.
 
-### Markdown
+### Summary
+A series of R tutorial sessions where we can get started on learning to manage, transform, and visualize testing data using the R programming language. 
 
+Objectives: (Less pasting and formatting with Prism!)..... but also organize messy data, transform it in ways that address our questions, and communicate results in a variety of formats. 
+
+(I am not an expert but.....) please let me know if there's any specific areas you are interested in or any specific questions/aspects you want to address, so we can change the focus as we go on, to make this session more practical  : )
+
+
+### About Markdown 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
@@ -27,11 +36,3 @@ Syntax highlighted code block
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ats-master/r_tutorial/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
