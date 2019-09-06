@@ -11,7 +11,16 @@ A series of R tutorial sessions where we can get started on learning to manage, 
 
 Objectives: (Less pasting and formatting with Prism!)..... but also organize messy data, transform it in ways that address our questions, and communicate results in a variety of formats. 
 
-(I am not an expert but.....) please let me know if there's any specific areas you are interested in or any specific questions/aspects you want to address, so we can change the focus as we go on, to make this session more practical  : )
+(I am not an expert but.....) please let me know if there's any specific areas you are interested in or any specific questions/aspects you want to address, so we can change the focus as we go on, to make this session more practical :)
+
+
+### Schedule
+Tentative schedule of the content we will discuss in the first several sessions; let me know what you would want to see.
+| Date       | Tutorial           |Discussion|
+| ------------- |:-------------:| -----:|
+| Sep 10th | [Tutorial 1](www.google.com)|x |
+| Sep 17th      | Enjoy TSRC! |  x|
+| Sep 24th | Tutorial 2      |x |
 
 
 ### About Markdown 
