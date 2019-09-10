@@ -16,12 +16,7 @@ Objectives: (Less pasting and formatting with Prism!)..... but also organize mes
 
 ### Schedule
 Tentative schedule of the content we will discuss in the first several sessions; let me know what you would want to see.
-| Date       | Tutorial           |Discussion|
-| ------------- |:-------------:| -----:|
-| Sep 10th | [Tutorial 1](www.google.com)|x |
-| Sep 17th      | Enjoy TSRC! |  x|
-| Sep 24th | Tutorial 2      |x |
-
+Sept. 9th: Setting up + [Tutorial 1](https://github.com/ats-master/r_tutorial/blob/master/Notes/Tutorial%201.1.Rmd)
 
 ### About Markdown 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
